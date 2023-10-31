@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Przepisy</string>
+    <string name="polecenie">Wybierz kategorie przepisu</string>
+    <string-array name="kategorie">
+        <item>napoje</item>
+        <item>desery</item>
+        <item>ciasteczka</item>
+    </string-array>
+</resources>
